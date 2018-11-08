@@ -1,4 +1,4 @@
-# GTX-vs-RTX-benchmarks
+# GTX 1080Ti vs RTX 2070 benchmarks
 
 A brief collection of performance benchmarks for a GTX 1080Ti vs a RTX 2070, using Fastai V1 library.
 
